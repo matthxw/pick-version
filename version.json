@@ -1,1 +1,8 @@
-{ "version": "1.1.0", "notes": "Opis zmian w tej wersji" }
+{
+  "version": "1.1.0",
+  "notes": [
+    "Dodano filtr po przewoźniku",
+    "Poprawiono eksport do xlsx",
+    "Naprawiono błąd przy pustym EAN"
+  ]
+}
