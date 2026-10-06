@@ -3,6 +3,7 @@
   "notes": [
     "Poprawiono dopasowywanie EAN",
     "Poprawiono moduł zbierania przy pozycjach > 1 sztuka",
-    "Dodano możliwość szybkiego przypisania EAN w module zbierania"
+    "Dodano możliwość szybkiego przypisania EAN w module zbierania",
+    "Dodano możliwośc zmiany miejsca, gdzie jest wyświetlana ilość sztuk w zatowarowaniu"
   ]
 }
